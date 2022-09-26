@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   🖥 Teck Stack🖥
 </h2>
 <h3 align="center">
-  Techs that I've used at least once
+  Techs I code with
 </h3>
 <br>
 <div align="center">
