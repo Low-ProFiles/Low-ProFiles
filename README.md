@@ -2,6 +2,8 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLow-ProFiles&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
+안녕하십니까! 몇년이 지나도 이해할 수 있는 코드를 중요시 여기는 프론트엔드 개발자 박민철입니다. 파일 분리와 재사용에 대해 고민하며 새로운 기술에 대해 받아들이는 것을 좋아합니다. 
+
 <div align="justify">
   
 ![mincheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Low-ProFiles&show_icons=true)
