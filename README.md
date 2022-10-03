@@ -6,7 +6,7 @@
   
 ![mincheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Low-ProFiles&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Low-ProFiles)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Low-ProFiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 # 💪Skills
