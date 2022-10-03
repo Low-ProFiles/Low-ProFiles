@@ -18,6 +18,7 @@
 ![SASS](https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styledcomponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785.svg?&style=for-the-badge&logo=Storybook&logoColor=white)
 
 
 ### Tools
@@ -26,6 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-f5f5dc.svg?&style=for-the-badge&logo=Notion&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4a154b.svg?&style=for-the-badge&logo=Slack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 
  
 # :mailbox_with_mail: Contacts
