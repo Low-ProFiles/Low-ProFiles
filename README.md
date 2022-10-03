@@ -1,42 +1,33 @@
-### Hi there 👋
+# PARK MIN CHEOL🖥
 
-<!--
-**Low-ProFiles/Low-ProFiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLow-ProFiles&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center">
-  🖥 Teck Stack🖥
-</h2>
-<h3 align="center">
-  Techs I code with
-</h3>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Create React App&logoColor=black"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp; 
-  <br>
-  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=Styled Components&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
- </div>
-<br>
-
-<div align="center">
+<div align="justify">
   
-  ![mincheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Low-ProFiles&show_icons=true&)
+![mincheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Low-ProFiles&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Low-ProFiles)
 </div>
+
+# 💪Skills
+### Platforms & Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
+![Next.Js](https://img.shields.io/badge/Next.Js-000000.svg?&style=for-the-badge&logo=Next.Js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styledcomponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-f5f5dc.svg?&style=for-the-badge&logo=Notion&logoColor=black)
+![Slack](https://img.shields.io/badge/Slack-4a154b.svg?&style=for-the-badge&logo=Slack&logoColor=white)
+
+ 
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=velog&link=https://velog.io/@abroak07/)](https://velog.io/@abroak07/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xironysim@gmail.com)](mailto:xironysim@gmail.com)
