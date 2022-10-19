@@ -34,3 +34,4 @@
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=velog&link=https://velog.io/@abroak07/)](https://velog.io/@abroak07/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xironysim@gmail.com)](mailto:xironysim@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EB%AF%BC%EC%B2%A0-%EB%B0%95-72ab9b236/)](https://www.linkedin.com/in/%EB%AF%BC%EC%B2%A0-%EB%B0%95-72ab9b236/)
