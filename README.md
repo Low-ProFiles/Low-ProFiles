@@ -1,6 +1,6 @@
 # PARK MIN CHEOL🖥 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLow-ProFiles&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-안녕하십니까, 빠르게 적응하며 발전하는 프론트엔드 개발자로 지원한 박민철입니다! 
+안녕하십니까, 빠르게 적응하며 발전하는 프론트엔드 개발자 박민철입니다! 
 <br/>
 파일의 기능 분리를 고민하며 가독성 및 유지보수 향상에 관심을 가지고 있으며 문제 발생 이유에 대한 고찰하기를 좋아합니다. 
 <br/>
