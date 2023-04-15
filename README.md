@@ -1,23 +1,18 @@
 # PARK MIN CHEOL🖥 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLow-ProFiles&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-안녕하십니까, 빠르게 적응하며 발전하는 프론트엔드 개발자 박민철입니다! 
+안녕하세요, 불편함을 고민하는 개발자 박민철입니다!
 <br/>
-파일의 기능 분리를 고민하며 가독성 및 유지보수 향상에 관심을 가지고 있으며 문제 발생 이유에 대한 고찰하기를 좋아합니다. 
+프론트엔드로 시작했지만 능동적으로 일을 진행하고 싶어 백엔드와 기획 및 디자인에도 참여하는 팀원으로 성장하고 있습니다. 
 <br/>
-모르는 것이 생긴다면 공식 깃허브 레포지토리, 공식 문서, Mdn을 참고하며 정제된 정보를 검색합니다. 
+기획 및 글로벌 팀과 협업을 하면서 다양한 케이스에 대한 고려, 적극적인 커뮤니케이션을 통해 효율적으로 일을 진행할 수 있었습니다.
 <br/>
-더 나아가 이를 팀원들과 공유하는 것을 즐기며 각자의 의견과 관점에 대해 깊이 공감하고 존중하는 것을 중요시 여깁니다. 
+이슈 및 코드에 대해 팀원들과 공유하는 것을 즐기며 각자의 의견과 관점에 대해 깊이 공감하고 존중하는 것을 중요시 여깁니다.
 
 ## 📈 Github Stat
-<div align="row">
 
 ![mincheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Low-ProFiles&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Low-ProFiles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=low-profiles&theme=nord_bright)](https://github.com/Low-ProFiles)
-
-</div>
 
 ## 💪 Skills
 ### Platforms & Languages
