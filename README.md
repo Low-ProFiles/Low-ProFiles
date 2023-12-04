@@ -46,4 +46,4 @@
 [![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@abroak07/)](https://velog.io/@abroak07/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xironysim@gmail.com)](mailto:xironysim@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EB%AF%BC%EC%B2%A0-%EB%B0%95-72ab9b236/)](https://www.linkedin.com/in/%EB%AF%BC%EC%B2%A0-%EB%B0%95-72ab9b236/)
-[![Notion](https://img.shields.io/badge/Notion-f5f5dc.svg?&style=flat-square&logo=Notion&logoColor=black&link=https://lava-fortnight-fed.notion.site/1-7a2e130e6ff64b0d8602ebaf21cab500)](https://lava-fortnight-fed.notion.site/1-7a2e130e6ff64b0d8602ebaf21cab500)
+[![Notion](https://img.shields.io/badge/Notion-f5f5dc.svg?&style=flat-square&logo=Notion&logoColor=black&link=https://lava-fortnight-fed.notion.site/1-7a2e130e6ff64b0d8602ebaf21cab500)](https://www.notion.so/d4de042bce63466e97fdf4212600973f)
