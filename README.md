@@ -1,8 +1,3 @@
-#### 👀 Recently Interested in
-- 관심사 분리: 비즈니스 로직과 UI 로직의 분리
-- 이미지 유사도 계산
-- React 19 use 
-
 #### 🎯 Mainly Focusing on
 <img src="https://img.shields.io/badge/Javascript-F7DF1D?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
@@ -16,6 +11,11 @@
 <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%B2%A0-%EB%B0%95-72ab9b236"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=ttps://www.linkedin.com/in/%EB%AF%BC%EC%B2%A0-%EB%B0%95-72ab9b236"/></a>
 <a href="https://lava-fortnight-fed.notion.site/d4de042bce63466e97fdf4212600973f?pvs=4"><img src="https://img.shields.io/badge/Notion-f5f5dc?style=flat-square&logo=Notion&logoColor=black&link=ttps://lava-fortnight-fed.notion.site/d4de042bce63466e97fdf4212600973f?pvs=4"/></a>
 <a href="mailto:xironysim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=xironysim@gmail.com"/></a>
+
+#### 👀 Recently Interested in
+- 관심사 분리: 비즈니스 로직과 UI 로직의 분리
+- 이미지 유사도 계산
+- React 19 use 
 
 #### 💼 Work
 
