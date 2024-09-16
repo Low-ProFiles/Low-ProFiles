@@ -14,14 +14,15 @@
 #### 👀 Recently Interested in
 - 관심사 분리: 비즈니스 로직과 UI 로직의 분리
 - 이미지 유사도 계산
+- Suspesne, Error boundary
 - React 19 use 
 
 #### 💼 Work
 
 - [Stayfolio](https://www.stayfolio.com) | Frontend Engineer <sub>(2022.10 ~)</sub>
 
-  - 어드민 페이지로 이벤트 기능 옮기기
-  - 가격 할인 정책 개발
+  - 어드민 페이지로 이벤트 기능 이관
+  - 가격 정책 개발
   - next/image를 사용한 이미지 성능 개선
   - 테크 블로그 작성
 
