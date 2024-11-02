@@ -25,7 +25,7 @@
   - 가격 정책 개발
   - next/image를 사용한 이미지 성능 개선
   - 문체부와 한국관광공사가 진행하는 숙박 세일 페스타 프론트엔드 담당
-  - 테크 블로그 작성
+  - [테크 블로그 작성](https://medium.com/stayfolio-tech/react%EA%B0%80-0-016%EC%B4%88%EB%A7%88%EB%8B%A4-%ED%95%98%EB%8A%94-%EC%9D%BC-feat-fiber-1b9c3839675a)
 
 #### 🫧 Experiences
 - UMC 7th  |  7기 WEB 파트장 <sub>(2024.09 ~)</sub>
