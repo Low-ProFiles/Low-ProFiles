@@ -33,6 +33,6 @@
 - [LikeLion 10th](https://lava-fortnight-fed.notion.site/94af8fbb8ffe4d22bd709d7f3c871f35?pvs=4) | 10기 WEB 파트 운영진 <sub>(2022.01 ~ 2022.12)</sub>
 
 #### 🔥 Recent Post
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=abroak07)](https://velog.io/@abroak07/%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=abroak07)](https://velog.io/@abroak07/%EB%8C%80%EC%8B%A0-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-%ED%83%80%EC%9E%85-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLow-ProFiles&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
