@@ -13,9 +13,8 @@
 
 #### 👀 Recently Interested in
 - 관심사 분리: 비즈니스 로직과 UI 로직의 분리
-- 이미지 유사도 계산
 - Suspense, Error boundary
-- React 19 use 
+- next.js 이미지 최적화
 
 #### 💼 Work
 
